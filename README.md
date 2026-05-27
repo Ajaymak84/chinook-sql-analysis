@@ -17,4 +17,5 @@ This project analyzes the Chinook SQLite database using Python, SQL, Pandas, and
 
 ## Project URL
 
-PASTE_THE_ASSIGNMENT_LINK_HERE
+[PASTE_THE_ASSIGNMENT_LINK_HERE](https://roadmap.sh/projects/querying-sql-python)
+
